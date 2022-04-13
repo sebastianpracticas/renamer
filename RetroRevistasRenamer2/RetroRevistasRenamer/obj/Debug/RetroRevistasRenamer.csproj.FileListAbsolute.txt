@@ -1,0 +1,15 @@
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.csproj.AssemblyReference.cache
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.Form1.resources
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.FormCabeceraXML.resources
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.FormEditar.resources
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.Properties.Resources.resources
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.seleccionarFicheroXML.resources
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.csproj.GenerateResource.cache
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.csproj.CoreCompileInputs.cache
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\bin\Debug\RetroRevistasRenamer.exe.config
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\bin\Debug\RetroRevistasRenamer.exe
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\bin\Debug\RetroRevistasRenamer.pdb
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.exe
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.pdb
+C:\Users\jsdev\Source\Repos\RetroRevistasRenamer2\RetroRevistasRenamer\obj\Debug\RetroRevistasRenamer.FormEditarIssue.resources
