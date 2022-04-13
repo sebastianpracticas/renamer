@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetroRevistasRenamer", "RetroRevistasRenamer\RetroRevistasRenamer.csproj", "{1517C258-55A2-4E96-BDFE-059B2E61D1AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F0970169-9A00-4C53-8A55-420C70A6EF6A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1517C258-55A2-4E96-BDFE-059B2E61D1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1517C258-55A2-4E96-BDFE-059B2E61D1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1517C258-55A2-4E96-BDFE-059B2E61D1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1517C258-55A2-4E96-BDFE-059B2E61D1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFFE2042-BCEC-44FB-BC88-AF6C7F13227E}
+	EndGlobalSection
+EndGlobal
